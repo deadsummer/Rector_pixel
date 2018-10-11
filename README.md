@@ -14,7 +14,7 @@ https://tampermonkey.net/
 Установить сам скрипт.
 Можете перейти по ссылке, tampermonkey сам предложит добавить скрипт, надо будет тыкнуть `"Install"`.
 
-https://raw.githubusercontent.com/igoose1/pixelbot/master/PixelBot.user.js
+https://raw.githubusercontent.com/deadsummer/Rector_pixel/PixelBot.user.js
 
 Если же ничего не появилось, то надо самому скопировать весь код скрипта.
 Затем тыкнуть на значок расширения tampermonkey, там `"create new script"`.
